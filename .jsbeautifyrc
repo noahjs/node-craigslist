@@ -5,7 +5,7 @@
     "e4x": false,
     "eval_code": false,
     "indent_level": 0,
-    "indent_with_tabs": true,
+    "indent_with_tabs": false,
     "jslint_happy": true,
     "keep_array_indentation": false,
     "keep_function_indentation": false,
